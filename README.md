@@ -127,6 +127,9 @@ for any purpose, even commercially. But if you do the latter, you **must distrib
 **Disclaimer:** The information provided in this repo does not, and is not intended to, constitute legal advice. Maintainers of this repo are not responsible for the actions of third parties who use the models. Please consult an attorney before using models for commercial purposes.
 
 ---
+### Working of Transformer Model
+   Link :- https://jalammar.github.io/illustrated-transformer/
+   
 
 ### Improvements
 
