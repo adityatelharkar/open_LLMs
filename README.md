@@ -131,6 +131,6 @@ for any purpose, even commercially. But if you do the latter, you **must distrib
 ### Improvements
 
 - [x] Complete entries for context length, and check entries with `?`
-- [ ] ~~Add number of tokens trained?~~ (see [considerations](https://github.com/eugeneyan/open-llms/issues/7))
+- [ ] ~~Add number of tokens trained?~~ (see [considerations](https://github.com/adityatelharkar)
 - [ ] Add (links to) training code?
 - [ ] Add (links to) eval benchmarks?
